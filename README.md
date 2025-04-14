@@ -1,7 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JovkJbhN)
 # Trabajo Práctico 2: Desarrollo Guiado por Pruebas (TDD) - Detector de Palíndromos
 
 ## Identificación del Alumno
-**Nombre y Apellido:** [Completar con tu nombre y apellido]
+**Nombre y Apellido:** [Máximo Navesi]
 
 **Nota:** Este trabajo práctico es de carácter individual. Cada alumno debe realizar su propia implementación y no se permite el trabajo en grupo.
 
@@ -126,7 +127,8 @@ Para trabajar con este repositorio, es importante seguir estas pautas:
    git commit -m "Descripción clara de los cambios"
 
    # Subir cambios al repositorio remoto
-   git push origin feature/[nombre-del-issue]
+   git push origin git fetch origin
+git checkout feature/limpieza-de-texto]
 
    # Crear Pull Request
    # Realizar merge
